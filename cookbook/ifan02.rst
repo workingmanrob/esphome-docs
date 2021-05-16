@@ -197,6 +197,7 @@ Then you need to set it up with yaml.
       - platform: speed
         output: fanoutput
         id: ifan02_fan
+        speed_count: 3
         name: "iFan02 Fan"
 
 See Also
